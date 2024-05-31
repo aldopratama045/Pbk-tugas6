@@ -33,7 +33,7 @@
     </ul>
 
     <button @click="load" class="btn btn-secondary">Reload Articles</button>
-    <p class="welcome-text">Welcome to Data Buku View</p>
+   
   </div>
 </template>
 
