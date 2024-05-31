@@ -1,0 +1,24 @@
+{
+  "articles": [
+    {
+      "id": "1",
+      "title": "Asus ROG Zephyrus G15",
+      "content": "2022"
+    },
+    {
+      "id": "2",
+      "title": "Acer Swift 3",
+      "content": "2022"
+    },
+    {
+      "id": "3",
+      "title": "HP Pavilion Plus 14",
+      "content": "2023"
+    },
+    {
+        "id": "4",
+        "title": "ASUS Vivobook 15",
+        "content": "2023"
+      }
+  ]
+}
